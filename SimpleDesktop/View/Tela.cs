@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SimpleDesktop
 {
-    public partial class Form1 : Form
+    public partial class Tela : Form
     {
-        public Form1()
+        public Tela()
         {
             InitializeComponent();
         }
